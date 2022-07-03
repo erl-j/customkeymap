@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/customkeymap/static/css/main.e6c13ad2.css",
+    "main.js": "/customkeymap/static/js/main.53d9c008.js",
+    "static/js/787.b153c3b1.chunk.js": "/customkeymap/static/js/787.b153c3b1.chunk.js",
+    "index.html": "/customkeymap/index.html",
+    "main.e6c13ad2.css.map": "/customkeymap/static/css/main.e6c13ad2.css.map",
+    "main.53d9c008.js.map": "/customkeymap/static/js/main.53d9c008.js.map",
+    "787.b153c3b1.chunk.js.map": "/customkeymap/static/js/787.b153c3b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.53d9c008.js"
+  ]
+}
